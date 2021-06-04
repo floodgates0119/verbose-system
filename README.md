@@ -1,1 +1,2 @@
-# verbose-system
+# verbose-system <sync >
+Iℹ️📧🥧🥸.
